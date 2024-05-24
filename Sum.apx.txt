@@ -2,7 +2,7 @@ public class Sum
 {
    public static void doSum(integer a , integer b)
 {
-    System.debug(a+b);
+    System.debug("Sum" + (a+b));
 }
   public void dis()
   {
