@@ -1,0 +1,7 @@
+public class Sum
+{
+   public static void doSum(integer a , integer b)
+{
+    System.debug(a+b);
+}
+}
