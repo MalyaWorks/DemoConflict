@@ -6,6 +6,6 @@ public class Sum
 }
   public void dis()
   {
-     System.debug("Hello GIT"); 
+     System.debug("Hello GITHUB"); 
   }
 }
