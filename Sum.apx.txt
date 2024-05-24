@@ -4,4 +4,8 @@ public class Sum
 {
     System.debug(a+b);
 }
+  public void dis()
+  {
+     System.debug("Hello GIT"); 
+  }
 }
